@@ -1,0 +1,48 @@
+{
+  id: '523cda3c-63fb-466c-beb2-9dee62b5f0da',
+  version: 1,
+  versionModifiedAt: '2023-08-30T18:39:07.425Z',
+  lastMessageSequenceNumber: 1,
+  createdAt: '2023-08-30T18:39:07.425Z',
+  lastModifiedAt: '2023-08-30T18:39:07.425Z',
+  lastModifiedBy: {
+    isPlatformClient: true,
+    user: { typeId: 'user', id: 'c992c601-bd2a-4ac7-9fc5-6bfef2c04e3c' }
+  },
+  createdBy: {
+    isPlatformClient: true,
+    user: { typeId: 'user', id: 'c992c601-bd2a-4ac7-9fc5-6bfef2c04e3c' }
+  },
+  productType: {
+    typeId: 'product-type',
+    id: '67eb269f-e2e0-4947-876d-d5d39e30d950'
+  },
+  masterData: {
+    current: {
+      name: [Object],
+      categories: [Array],
+      categoryOrderHints: {},
+      slug: [Object],
+      masterVariant: [Object],
+      variants: [Array],
+      searchKeywords: {}
+    },
+    staged: {
+      name: [Object],
+      categories: [Array],
+      categoryOrderHints: {},
+      slug: [Object],
+      masterVariant: [Object],
+      variants: [Array],
+      searchKeywords: {}
+    },
+    published: false,
+    hasStagedChanges: false
+  },
+  key: 'anniversary_shirt',
+  taxCategory: {
+    typeId: 'tax-category',
+    id: 'b959b5da-2b5c-4230-ba7f-0a068c5dfb7a'
+  },
+  lastVariantId: 3
+}
